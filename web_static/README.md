@@ -85,7 +85,7 @@ Before developing a big and complex web application, we will build the front end
   - Create simple `HTML` static pages
   - Style guide
   - Fake contents
-  - No Javascript
+  - No `Javascript`
   - No data loaded from anything
 
 <br>
