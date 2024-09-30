@@ -57,7 +57,7 @@ The `CSS` files in the `/web_static/styles` folder provide the visual styling an
 This project has been created by **[Holberton School](https://www.holbertonschool.com/about-holberton)** to enable every student to understand how to build a fully functional web application.
 <br>
 <br>
-Through hands-on development of core components, we gain practical experience in backend systems, data modeling, software architecture, and now front-end web development skills.
+Through hands-on development of core components, we gain practical experience in backend systems, data modeling, software architecture, and front-end web development skills.
 
 </div>
 
