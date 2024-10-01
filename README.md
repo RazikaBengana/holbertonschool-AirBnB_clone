@@ -49,7 +49,7 @@
 **`AirBnB clone - the console`** project is the first version of a four-part progressive implementation, focusing on creating a **backend system** for managing property rentals.
 <br>
 <br>
-The programs define a set of Python classes representing entities like `User`, `Place`, and `Review`, all inheriting from a `BaseModel`, and implement a **command-line interface (CLI)** for creating, retrieving, updating, and deleting these objects.
+The programs define a set of `Python` classes representing entities like `User`, `Place`, and `Review`, all inheriting from a `BaseModel`, and implement a **command-line interface (CLI)** for creating, retrieving, updating, and deleting these objects.
 <br>
 This initial version also includes a custom **file storage engine** for persisting objects to JSON and a suite of **unit tests**, laying the groundwork for future development of a more complex web application.
 <br>
